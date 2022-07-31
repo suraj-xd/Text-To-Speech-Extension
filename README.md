@@ -1,4 +1,4 @@
-# Text-To-Speech-Extension
+# Text-To-Speech-Extension 🔊
 
 ## Use this extension in your browser to read text.
 
