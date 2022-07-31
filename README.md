@@ -2,11 +2,15 @@
 
 ## Use this extension in your browser to read text.
 
-***NO LIBRARIES***
+***NO LIBRARIES*** <br>
 ***WORKS EVEN IN OFFLINE***
 
 use:
 
 ```` bash
-   uplaod
+   
+Open Chrome Extensions
+Turn On Developer Mode
+Click Load Unpacked
+Select This Folder
 ````
