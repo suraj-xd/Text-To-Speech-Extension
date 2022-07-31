@@ -6,8 +6,8 @@
 ***WORKS EVEN IN OFFLINE***
 
 use:
-Open `Chrome Extensions`
-Turn On `Developer Mode`
-Click Load Unpacked
+Open `Chrome Extensions` <br>
+Turn On `Developer Mode` <br>
+Click Load Unpacked <br>
 Select This Folder
 ````
