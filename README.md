@@ -6,11 +6,8 @@
 ***WORKS EVEN IN OFFLINE***
 
 use:
-
-```` bash
-   
-Open Chrome Extensions
-Turn On Developer Mode
+Open `Chrome Extensions`
+Turn On `Developer Mode`
 Click Load Unpacked
 Select This Folder
 ````
